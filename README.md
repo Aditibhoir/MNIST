@@ -31,8 +31,9 @@ MNIST/
 ## 🔧 Installation
 
 1. Clone this repository:
-   git clone https://github.com/your-username/MNIST.git
+   git clone https://github.com/Aditibhoir/MNIST.git
    cd MNIST
+   
 2.(Optional) Create and activate a virtual environment:
 
 python -m venv venv
