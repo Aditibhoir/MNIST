@@ -45,12 +45,15 @@ pip install -r requirements.txt
 
 🖥️ Usage
 **Train the model**
+
 python src/train.py
 
 **Evaluate the model**
+
 python src/evaluate.py
 
 **Run Jupyter Notebook**
+
 jupyter notebook notebooks/MNIST_Classification.ipynb
 
 📈 Results
